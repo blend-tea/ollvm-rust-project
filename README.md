@@ -1,4 +1,9 @@
-# Rust's fork of LLVM
+# ollvm for Rust
+
+This repository is patched version for [Hikari](https://github.com/61bcdefg/Hikari-LLVM15)
+
+
+## Rust's fork of LLVM
 
 This repository is a Rust-specific fork of LLVM. This is used as a submodule in
 the https://github.com/rust-lang/rust repository. The Rust repository is always
